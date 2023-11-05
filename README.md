@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning 
 
-- 👨‍💻 All of my projects are available at [muhammed_irfan](irfan0374/)
-
 - 💬 Ask me about **MERN stack and related technologies**
 
 - 📫 How to reach me **irfan188iqbal@gmail.com**
