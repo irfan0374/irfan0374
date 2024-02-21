@@ -11,7 +11,7 @@
 </a>
 </p>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
-<img align="right" alt="Coding" height="300" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 - 💬 Ask me about **MERN stack and related technologies**
 
